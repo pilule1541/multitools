@@ -50,7 +50,5 @@ cd multitools
 Fournir une boîte à outils complète, rapide et simple d'utilisation pour les développeurs, les administrateurs système et les utilisateurs avancés.
 
 ## 📜 Licence
-
-MIT License
 Met le fichier en .bat
 
