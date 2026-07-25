@@ -52,4 +52,5 @@ Fournir une boîte à outils complète, rapide et simple d'utilisation pour les 
 ## 📜 Licence
 
 MIT License
+Met le fichier en .bat
 
